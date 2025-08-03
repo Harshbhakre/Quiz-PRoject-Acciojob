@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+    <title>Quiz App</title>
+  </head>
+  <body>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Quicksand:wght@300..700&display=swap");
+    </style>
+      <style>
+    body {
+      font-family: 'Quicksand', sans-serif;
+    }
+    #selectionPage{
+        background-image: url('./assets/QuizBg2.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+    }
+  </style>
+  <div id="selectionPage" class="overflow-hidden h-screen flex flex-col gap-y-4 items-center justify-center">
+    <a href="quizPage.html?type=science" data-type="0" class="catSelection h-20 w-1/2 rounded-sm border-1 border-[#fc8b60] text-xl shadow-lg flex justify-center items-center cursor-pointer text-white hover:text-white bg-[#f1b392] hover:border-[#f3565c] hover:bg-red-300 hover:scale-105 duration-300">Science</a>
+    <a href="quizPage.html?type=maths" data-type="1" class="catSelection h-20 w-1/2 rounded-sm border-1 border-[#fc8b60] text-xl shadow-lg flex justify-center items-center cursor-pointer text-white hover:text-white bg-[#f1b392] hover:border-[#f3565c] hover:bg-red-300 hover:scale-105 duration-300">Maths</a>
+    <a href="quizPage.html?type=indianHistory" data-type="2" class="catSelection h-20 w-1/2 rounded-sm border-1 border-[#fc8b60] text-xl shadow-lg flex justify-center items-center cursor-pointer text-white hover:text-white bg-[#f1b392] hover:border-[#f3565c] hover:bg-red-300 hover:scale-105 duration-300">Indian History</a>
+    <a href="quizPage.html?type=generalKnowledge"data-type="3" class="catSelection h-20 w-1/2 rounded-sm border-1 border-[#fc8b60] text-xl shadow-lg flex justify-center items-center text-center cursor-pointer text-white hover:text-white bg-[#f1b392] hover:border-[#f3565c] hover:bg-red-300 hover:scale-105 duration-300">General Knowledge</a>
+  </div>
+   <script src="index.js"></script>
+</body>
+</html>

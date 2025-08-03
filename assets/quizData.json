@@ -1,0 +1,250 @@
+{
+  "science": [
+    {
+      "question": "What planet is known as the Red Planet?",
+      "type": "mcq",
+      "options": ["Earth", "Venus", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do humans need to breathe?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Oxygen"
+    },
+    {
+      "question": "How many legs does an insect have?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 6
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "type": "mcq",
+      "options": ["90°C", "100°C", "80°C", "120°C"],
+      "answer": "100°C"
+    },
+    {
+      "question": "Which organ pumps blood in the human body?",
+      "type": "mcq",
+      "options": ["Liver", "Heart", "Lungs", "Kidney"],
+      "answer": "Heart"
+    },
+    {
+      "question": "Which part of the plant makes food?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Leaves"
+    },
+    {
+      "question": "What force pulls objects toward the Earth?",
+      "type": "mcq",
+      "options": ["Friction", "Gravity", "Magnetism", "Electricity"],
+      "answer": "Gravity"
+    },
+    {
+      "question": "How many bones are there in the adult human body?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 206
+    },
+    {
+      "question": "Which planet is the largest in our solar system?",
+      "type": "mcq",
+      "options": ["Earth", "Jupiter", "Mars", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What do bees collect from flowers?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Nectar"
+    }
+  ],
+  "maths": [
+    {
+      "question": "What is 8 + 5?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 13
+    },
+    {
+      "question": "What is the value of π (pi) approximately?",
+      "type": "mcq",
+      "options": ["3.12", "3.14", "3.16", "3.10"],
+      "answer": "3.14"
+    },
+    {
+      "question": "What is the square root of 49?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 7
+    },
+    {
+      "question": "Which is a prime number?",
+      "type": "mcq",
+      "options": ["4", "6", "9", "7"],
+      "answer": "7"
+    },
+    {
+      "question": "What is 9 × 6?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 54
+    },
+    {
+      "question": "What is 100 divided by 10?",
+      "type": "mcq",
+      "options": ["5", "10", "20", "15"],
+      "answer": "10"
+    },
+    {
+      "question": "What is 3 squared?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 9
+    },
+    {
+      "question": "Which number is even?",
+      "type": "mcq",
+      "options": ["3", "7", "9", "4"],
+      "answer": "4"
+    },
+    {
+      "question": "What comes after 99?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 100
+    },
+    {
+      "question": "What is the half of 50?",
+      "type": "mcq",
+      "options": ["10", "15", "20", "25"],
+      "answer": "25"
+    }
+  ],
+  "indianHistory": [
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "type": "mcq",
+      "options": ["Gandhi", "Nehru", "Rajendra Prasad", "Sardar Patel"],
+      "answer": "Nehru"
+    },
+    {
+      "question": "In which year did India get independence?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 1947
+    },
+    {
+      "question": "Who led the Dandi March?",
+      "type": "mcq",
+      "options": ["Bhagat Singh", "Mahatma Gandhi", "Subhash Chandra Bose", "Tilak"],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "question": "What was the name of the war in 1857?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Revolt of 1857"
+    },
+    {
+      "question": "Who was known as Iron Man of India?",
+      "type": "mcq",
+      "options": ["Nehru", "Gandhi", "Sardar Patel", "Rajaji"],
+      "answer": "Sardar Patel"
+    },
+    {
+      "question": "Who was the last Mughal Emperor?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Bahadur Shah Zafar"
+    },
+    {
+      "question": "Which freedom fighter said 'Give me blood, I will give you freedom'?",
+      "type": "mcq",
+      "options": ["Bose", "Gandhi", "Nehru", "Tilak"],
+      "answer": "Bose"
+    },
+    {
+      "question": "When was the Constitution of India adopted?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 1950
+    },
+    {
+      "question": "Who wrote 'Discovery of India'?",
+      "type": "mcq",
+      "options": ["Gandhi", "Nehru", "Ambedkar", "Bose"],
+      "answer": "Nehru"
+    },
+    {
+      "question": "Name the father of Indian Constitution.",
+      "type": "input",
+      "inputType": "text",
+      "answer": "B. R. Ambedkar"
+    }
+  ],
+  "generalKnowledge": [
+    {
+      "question": "Which is the capital of India?",
+      "type": "mcq",
+      "options": ["Mumbai", "Kolkata", "New Delhi", "Chennai"],
+      "answer": "New Delhi"
+    },
+    {
+      "question": "How many states are there in India?",
+      "type": "input",
+      "inputType": "number",
+      "answer": 28
+    },
+    {
+      "question": "What is the national bird of India?",
+      "type": "mcq",
+      "options": ["Parrot", "Peacock", "Crow", "Eagle"],
+      "answer": "Peacock"
+    },
+    {
+      "question": "What is the currency of India?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Rupee"
+    },
+    {
+      "question": "Who is known as the Missile Man of India?",
+      "type": "mcq",
+      "options": ["Vikram Sarabhai", "APJ Abdul Kalam", "ISRO", "Homi Bhabha"],
+      "answer": "APJ Abdul Kalam"
+    },
+    {
+      "question": "Which continent is India part of?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Asia"
+    },
+    {
+      "question": "Which animal is known as the Ship of the Desert?",
+      "type": "mcq",
+      "options": ["Horse", "Camel", "Elephant", "Dog"],
+      "answer": "Camel"
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Mount Everest"
+    },
+    {
+      "question": "Which is the largest ocean?",
+      "type": "mcq",
+      "options": ["Atlantic", "Indian", "Pacific", "Arctic"],
+      "answer": "Pacific"
+    },
+    {
+      "question": "What is the color of the Ashoka Chakra in the Indian flag?",
+      "type": "input",
+      "inputType": "text",
+      "answer": "Navy Blue"
+    }
+  ]
+}
